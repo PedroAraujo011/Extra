@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 380" fill="none">
+  <defs>
+    <linearGradient id="hide" x1="100" y1="75" x2="310" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8FAEC4"/>
+      <stop offset=".5" stop-color="#44647C"/>
+      <stop offset="1" stop-color="#1A2B3A"/>
+    </linearGradient>
+    <linearGradient id="horn" x1="111" y1="20" x2="184" y2="143" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E7EDF0"/>
+      <stop offset="1" stop-color="#657B8A"/>
+    </linearGradient>
+  </defs>
+  <ellipse cx="236" cy="355" rx="170" ry="15" fill="#05090C" fill-opacity=".35"/>
+  <path d="m132 116-73-73 16 111-43 26 86 22 14-86Z" fill="url(#horn)" stroke="#192A37" stroke-width="10" stroke-linejoin="round"/>
+  <path d="m284 112 57-86 7 118 54 31-93 22-25-85Z" fill="url(#horn)" stroke="#192A37" stroke-width="10" stroke-linejoin="round"/>
+  <path d="m112 121 63-65 86-18 78 46 39 85-24 88-64 44-121 2-82-47-26-68 51-67Z" fill="url(#hide)" stroke="#172632" stroke-width="12" stroke-linejoin="round"/>
+  <path d="m111 150-69-27 21 79 61 24 11-48-24-28Zm231 0 54-33-15 84-59 31-9-53 29-29Z" fill="#344E61" stroke="#172632" stroke-width="10" stroke-linejoin="round"/>
+  <path d="m108 240-46 35 33 54 43 2 19-49-49-42Zm215-4 56 26-28 67-47 7-22-49 41-51Z" fill="#3D5A70" stroke="#172632" stroke-width="10" stroke-linejoin="round"/>
+  <path d="m118 316-13 39 68 2 8-41m116-1 16 39-69 4-9-42" fill="#263C4D" stroke="#14232E" stroke-width="9" stroke-linejoin="round"/>
+  <path d="m139 128 46-22 40 14-30 30-56-2v-20Zm128-2 42-22 30 25-4 20-53 1-15-24Z" fill="#F4B83E"/>
+  <path d="m182 189 32-19 29 1 32 20-13 26-35 11-34-12-11-27Z" fill="#111E28" stroke="#A8BBC6" stroke-width="7" stroke-linejoin="round"/>
+  <path d="m200 205 20 8 20-1 19-10-9 31-29 15-27-16 6-27Z" fill="#D6DEE2"/>
+  <path d="m152 86 32-17m101 20 26-23M84 190l31 9m222-6-33 11M142 278l28 12m128-13-25 15" stroke="#B6C7D0" stroke-linecap="round" stroke-width="8" opacity=".75"/>
+</svg>
